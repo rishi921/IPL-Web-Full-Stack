@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styling/MatchDetails.css'
 
 const MatchDetails = () => {
   const [matches, setMatches] = useState([]);
@@ -12,7 +13,7 @@ const MatchDetails = () => {
   }, []);
 
   return (
-    <div className="container mt-4" style={{ backgroundColor: 'aliceblue', padding: '20px', borderRadius: '10px' }}>
+    <div className="container mt-4" style={{ backgroundColor: 'aqua', padding: '20px', borderRadius: '10px' }}>
       <h2 style={{ textAlign: 'center', marginBottom: '20px' }}>Match Statistics</h2>
       <table className="table table-striped table-bordered" style={{ backgroundColor: '#ffffff' }}>
         <thead className="thead-dark">

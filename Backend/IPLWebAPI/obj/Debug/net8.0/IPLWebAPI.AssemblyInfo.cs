@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPLWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e25db033be0ea955eb28dfff57d90f021a856213")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPLWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPLWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,3 +31,4 @@ C:\Users\rishikesh.sharma\Documents\Rishikesh Sharma\IPL Web\Backend\IPLWebAPI\o
 C:\Users\rishikesh.sharma\Documents\Rishikesh Sharma\IPL Web\Backend\IPLWebAPI\obj\Debug\net8.0\IPLWebAPI.pdb
 C:\Users\rishikesh.sharma\Documents\Rishikesh Sharma\IPL Web\Backend\IPLWebAPI\obj\Debug\net8.0\IPLWebAPI.genruntimeconfig.cache
 C:\Users\rishikesh.sharma\Documents\Rishikesh Sharma\IPL Web\Backend\IPLWebAPI\obj\Debug\net8.0\ref\IPLWebAPI.dll
+C:\Users\rishikesh.sharma\Documents\Rishikesh Sharma\IPL Web\Backend\IPLWebAPI\obj\Debug\net8.0\IPLWebAPI.sourcelink.json
